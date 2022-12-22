@@ -9,4 +9,4 @@ eureka:
       
 spring:
   application:
-    name: CONFIG-PROD
+    name: USER-PROD-SERVICE
